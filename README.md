@@ -1,1 +1,3 @@
 # Bike-Rental-Demand-Prediction
+Bike-sharing systems have revolutionized the traditional concept of bike rentals, making the whole process of membership, rental, and return completely automated. With these systems, users can easily rent a bike from one location and return it to another. Bike-rental systems have become increasingly popular due to their crucial role in addressing traffic, environmental, and health issues.
+One of the primary challenges faced by bike-sharing systems is accurately estimating the number of bicycles needed to meet demand at any given time. Here in our project we use machine learning models to predict the demand for bikes on any given day based on the historical analysis.
